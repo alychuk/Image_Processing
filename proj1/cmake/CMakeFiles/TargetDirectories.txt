@@ -1,0 +1,3 @@
+/home/jamminnightly/Documents/CS474/proj1/cmake/CMakeFiles/rebuild_cache.dir
+/home/jamminnightly/Documents/CS474/proj1/cmake/CMakeFiles/edit_cache.dir
+/home/jamminnightly/Documents/CS474/proj1/cmake/CMakeFiles/proj1.dir

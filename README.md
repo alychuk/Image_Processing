@@ -1,5 +1,5 @@
 # Image_Processing
-Projects from image processing course.
+Projects from image processing course. <br />
 Project 1: Histogram Specification and Quantization implementations. <br />
 Project 2: Correlation Prewitt Sobel filtering. <br />
 Project 3: Fourier Transform Frequency Fomain Experiments. <br />
